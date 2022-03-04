@@ -1,0 +1,17 @@
+{
+    "name": "wribeiiro/enums-php8",
+    "autoload": {
+        "psr-4": {
+            "Wribeiiro\\EnumsPhp8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wellisson Ribeiro",
+            "email": "welleh10@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
